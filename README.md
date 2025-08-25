@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Expense-tracker<br>I'm currently learning MERN stack
+I'm currently working on Resume-Analyzer<br>I'm currently learning MERN stack
 
 
 ## 🌐 Socials:
